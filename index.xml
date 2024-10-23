@@ -23,11 +23,12 @@
         <guid>https://tghdfj.xyz/about-me/</guid>
         <description>&lt;h2 id=&#34;projects&#34;&gt;projects
 &lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;minesweeper AI implemented in python&lt;/li&gt;
 &lt;li&gt;geocoding and reverse geocoding weather UI that displays the location and weather data for the input of names of places and reversely, using python, json and APIs&lt;/li&gt;
 &lt;li&gt;spots game with UI and full implementation of the game using python and pygame&lt;/li&gt;
 &lt;li&gt;UI that processes users&amp;rsquo; interaction requests to a SQL database&lt;/li&gt;
-&lt;li&gt;simple programming language compiler implemented by python&lt;/li&gt;
-&lt;li&gt;data structures implemented by C++, including graphs, cuckoo hashmaps, AVL trees, priority queues, skipped lists, etc.&lt;/li&gt;
+&lt;li&gt;simple programming language compiler implemented in python&lt;/li&gt;
+&lt;li&gt;data structures implemented in C++, including graphs, cuckoo hashmaps, AVL trees, priority queues, skipped lists, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;experiences&#34;&gt;experiences
 &lt;/h2&gt;&lt;ul&gt;
