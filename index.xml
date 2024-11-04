@@ -21,18 +21,17 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://tghdfj.xyz/about-me/</guid>
-        <description>&lt;h2 id=&#34;projects&#34;&gt;projects
+        <description>&lt;p&gt;CS student. Trance musician.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tghdfj.xyz/about-me/portfolio/&#34; &gt;My Portfolio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tghdfj.xyz/about-me/music/&#34; &gt;Listen to my releases&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;favorite-music-genre&#34;&gt;🎼Favorite Music Genre?
+&lt;/h2&gt;&lt;p&gt;Uplifting trance, being energetic while not losing any richness of emotion, is also the most mainstream subgenre of trance music&lt;/p&gt;
+&lt;h2 id=&#34;what-am-i-doing-now&#34;&gt;🕰️What am I doing now?
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;minesweeper AI implemented in python&lt;/li&gt;
-&lt;li&gt;geocoding and reverse geocoding weather UI that displays the location and weather data for the input of names of places and reversely, using python, json and APIs&lt;/li&gt;
-&lt;li&gt;spots game with UI and full implementation of the game using python and pygame&lt;/li&gt;
-&lt;li&gt;UI that processes users&amp;rsquo; interaction requests to a SQL database&lt;/li&gt;
-&lt;li&gt;simple programming language compiler implemented in python&lt;/li&gt;
-&lt;li&gt;data structures implemented in C++, including graphs, cuckoo hashmaps, AVL trees, priority queues, skipped lists, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;experiences&#34;&gt;experiences
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Learning Assistant mentoring at UCI in ICS 32 Programming with Software Libraries. Sep 2024 - Dec 2024&lt;/li&gt;
+&lt;li&gt;Learning coursework at school&lt;/li&gt;
+&lt;li&gt;Looking for internships in computer science&lt;/li&gt;
+&lt;li&gt;Producing more demo tracks to improve skills&lt;/li&gt;
+&lt;li&gt;Aiming to sign world class trance label recordings&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
